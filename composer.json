@@ -1,0 +1,16 @@
+{
+	"name": "uscwebservices/composer-public-repo-no-cache",
+	"description": "WordPress Plugin for composer: public no cache",
+	"type": "wordpress-plugin",
+	"version": "1.0.0",
+	"require": {
+		"composer/installers": "^1.0"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jason Cauwels",
+			"email": "cauwels@usc.edu"
+		}
+	]
+}
