@@ -2,7 +2,7 @@
 	"name": "uscwebservices/composer-public-repo-no-cache",
 	"description": "WordPress Plugin for composer: public no cache",
 	"type": "wordpress-plugin",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"require": {
 		"composer/installers": "^1.0"
 	},
